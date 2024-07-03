@@ -1,0 +1,14 @@
+D:\Проекты\Check\bin\Debug\net8.0\Check.exe
+D:\Проекты\Check\bin\Debug\net8.0\Check.deps.json
+D:\Проекты\Check\bin\Debug\net8.0\Check.runtimeconfig.json
+D:\Проекты\Check\bin\Debug\net8.0\Check.dll
+D:\Проекты\Check\bin\Debug\net8.0\Check.pdb
+D:\Проекты\Check\obj\Debug\net8.0\Check.GeneratedMSBuildEditorConfig.editorconfig
+D:\Проекты\Check\obj\Debug\net8.0\Check.AssemblyInfoInputs.cache
+D:\Проекты\Check\obj\Debug\net8.0\Check.AssemblyInfo.cs
+D:\Проекты\Check\obj\Debug\net8.0\Check.csproj.CoreCompileInputs.cache
+D:\Проекты\Check\obj\Debug\net8.0\Check.dll
+D:\Проекты\Check\obj\Debug\net8.0\refint\Check.dll
+D:\Проекты\Check\obj\Debug\net8.0\Check.pdb
+D:\Проекты\Check\obj\Debug\net8.0\Check.genruntimeconfig.cache
+D:\Проекты\Check\obj\Debug\net8.0\ref\Check.dll
